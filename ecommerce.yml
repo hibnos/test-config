@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: flowplanet_token_secret
+  secret: flowplanet_token_secret_9999
 
 gateway:
   ip: 127.0.0.1
